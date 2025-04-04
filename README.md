@@ -37,8 +37,13 @@ The dataset includes details of multiple laptop models with attributes like:
 3. **Load**: The cleaned data was stored in a structured format.
 
 ✅ **Before vs After Cleaning**
-- Before: ![Raw Data](uncleaned_data.jpg)
-- After: ![Cleaned Data](cleaned_data.jpg)
+
+Before:
+![Image](https://github.com/user-attachments/assets/352f42ad-2d04-4d34-8ae7-8b737cc4f610)
+After:
+![Image](https://github.com/user-attachments/assets/81b2816a-ddc0-47c4-89ba-2df68ebdc1f3)
+
+![Image](https://github.com/user-attachments/assets/7d2895c9-62e9-46e2-a532-9b394471b6e1)
 
 ---
 
